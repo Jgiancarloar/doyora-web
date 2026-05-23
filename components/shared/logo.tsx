@@ -1,7 +1,7 @@
 export default function Logo() {
   return (
-    <div>
-      <h1>Classenly</h1>
-    </div>
+    <>
+      <h1 className="font-extrabold text-2xl">Doyora</h1>
+    </>
   );
 }
